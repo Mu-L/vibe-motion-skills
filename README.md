@@ -67,11 +67,17 @@ npx skills add vibe-motion/skills
 
 **Burger King — Flame Shift**
 
-<img src="brand-launch-video-star/assets/burger-king-flame-shift.gif" alt="Burger King fast-paced brand launch video" width="540" />
+<img src="brand-launch-video-star/assets/burger-king-flame-shift.gif" alt="Burger King fast-paced brand launch video" width="300" />
 
 **Moonshot AI — Product Hypercut**
 
-<img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="540" />
+<img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="360" />
+
+### remotion-candlestick
+
+在 Remotion 项目中创建带动画的金融 K 线图（蜡烛图），涵盖 Yahoo Finance 数据获取、Canvas 逐帧绘制、深色交易终端风格、时间线设计，以及 Studio 预览和渲染输出。
+
+<img src="remotion-candlestick/sp500-kline-demo.gif" alt="S&P 500 candlestick animation" width="440" />
 
 ### light-spotlight-render
 
@@ -106,6 +112,10 @@ npx skills add vibe-motion/skills
 ### disney-animation-rule-skill
 
 将迪士尼动画12原则应用于程序化动画的设计与工程实践。适用于创建、改进、审查或调试代码驱动的动画（Web、SVG、Canvas、React、Remotion、游戏、UI、角色、摄像机、3D 场景等），尤其当动画感觉僵硬、轻飘、机械、不清晰或物理正确但视觉表现力不足时。
+
+## 提交贡献
+
+提交 PR 前，请先压缩所有 GIF。每个 GIF 必须小于 1 MB（1,000,000 字节），建议控制在 250 KB（250,000 字节）以内。可以通过降低预览分辨率、帧率和色板大小来压缩；提交前请确认完整时长、循环以及关键文字和主体仍可辨识。
 
 ## 杂项
 

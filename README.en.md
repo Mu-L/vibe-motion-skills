@@ -65,11 +65,17 @@ product workflow, and keep the pacing fast, visually bold, and smooth.
 
 **Burger King — Flame Shift**
 
-<img src="brand-launch-video-star/assets/burger-king-flame-shift.gif" alt="Burger King fast-paced brand launch video" width="540" />
+<img src="brand-launch-video-star/assets/burger-king-flame-shift.gif" alt="Burger King fast-paced brand launch video" width="300" />
 
 **Moonshot AI — Product Hypercut**
 
-<img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="540" />
+<img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="360" />
+
+### remotion-candlestick
+
+Creates animated financial candlestick charts in Remotion, covering Yahoo Finance data acquisition, frame-driven Canvas rendering, a dark trading-terminal style, timeline design, Studio previews, and final renders.
+
+<img src="remotion-candlestick/sp500-kline-demo.gif" alt="S&P 500 candlestick animation" width="440" />
 
 ### light-spotlight-render
 
@@ -104,6 +110,10 @@ Clones or updates `sxhzju/wechat-2d` and renders the default WeChat-style 2D cha
 ### disney-animation-rule-skill
 
 Applies Disney's 12 animation principles as practical design and engineering rules for procedural animation. Use when creating, improving, reviewing, or debugging code-driven motion in web, SVG, canvas, React, Remotion, game, UI, character, camera, or 3D scenes — especially when motion feels stiff, weightless, mechanical, unclear, or physically correct but visually weak.
+
+## Contributing
+
+Compress every GIF before opening a PR. Each GIF must be smaller than 1 MB (1,000,000 bytes), and should ideally be no larger than 250 KB (250,000 bytes). Reduce preview dimensions, frame rate, and palette size as needed; before submitting, verify that the full duration, loop, key text, and main subject remain legible.
 
 ## Misc
 
