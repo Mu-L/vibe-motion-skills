@@ -85,6 +85,14 @@ npx skills add vibe-motion/skills
 
 <img src="light-spotlight-render/assets/demo.gif" alt="light spotlight effect" width="540" />
 
+### printed-curtain-render
+
+把 PNG、JPEG 或 WebP 图片和可选文字织进可交互的 p5.js 线帘模拟。图案烘焙在布料材质坐标中，会随独立丝线拉伸、折叠和散开；输出为可离线运行的 HTML 目录，并带实时物理参数面板。
+
+<img src="printed-curtain-render/assets/maoxuezhang-printed-curtain.gif" alt="printed curtain simulation with 猫学长 artwork" width="300" />
+
+<sub>线帘引擎改编自 Jason Labbe 的 Dynamic ropes 2，按 CC BY-SA 4.0 许可。</sub>
+
 ### remotion-3d-ticker
 
 生成基于 Remotion 的无限循环 3D 照片滚动墙/瀑布流动画。可自由配置图片列、滚动方向与速度。

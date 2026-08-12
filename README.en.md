@@ -83,6 +83,14 @@ Generates a swinging spotlight text-reveal HTML animation with configurable text
 
 <img src="light-spotlight-render/assets/demo.gif" alt="light spotlight effect" width="540" />
 
+### printed-curtain-render
+
+Weaves PNG, JPEG, or WebP artwork and optional text into an interactive p5.js strand-curtain simulation. The print is baked into material coordinates, so it stretches, folds, and separates with the individual threads. Output is an offline-capable HTML directory with live physics controls.
+
+<img src="printed-curtain-render/assets/maoxuezhang-printed-curtain.gif" alt="printed curtain simulation with Maoxuezhang artwork" width="300" />
+
+<sub>The curtain engine is adapted from Jason Labbe's Dynamic ropes 2 under CC BY-SA 4.0.</sub>
+
 ### remotion-3d-ticker
 
 Creates an infinite 3D vertical scrolling photo wall/ticker animation in Remotion. Configurable image columns, scroll direction, and speed.
