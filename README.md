@@ -145,11 +145,7 @@ npx skills add vibe-motion/skills
 
 ## 交流
 
-- 微信交流群已满 200 人，无法通过二维码入群，请添加我的微信，我手动拉你进群
-- TG 群：t.me/zjucat
-<p align="center">
-  <img src="https://img.laosunwendao.com/skill-uploads/49bbd79ea9554357a2b9a9e839748dcc.jpg" alt="微信二维码" width="176" />
-</p>
+到 https://github.com/vibe-motion 主页加联系方式
 
 ## Star History
 
