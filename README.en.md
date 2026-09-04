@@ -71,6 +71,12 @@ product workflow, and keep the pacing fast, visually bold, and smooth.
 
 <img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="360" />
 
+### fisheye-motion
+
+Creates a screen-photo style fisheye effect: barrel distortion + moire interference + vignette, with a Remotion video output that pushes focus onto a target region and slides in a yellow highlight. The skill guides cloning the [fisheye-motion](https://github.com/vibe-motion/fisheye-motion) project and rendering with custom parameters.
+
+<img src="fisheye-motion/assets/fisheye-demo.gif" alt="fisheye focus effect" width="440" />
+
 ### remotion-candlestick
 
 Creates animated financial candlestick charts in Remotion, covering Yahoo Finance data acquisition, frame-driven Canvas rendering, a dark trading-terminal style, timeline design, Studio previews, and final renders.

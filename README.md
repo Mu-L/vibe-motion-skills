@@ -73,6 +73,12 @@ npx skills add vibe-motion/skills
 
 <img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="360" />
 
+### fisheye-motion
+
+制作屏摄风格的鱼眼畸变效果：桶形畸变 + 摩尔纹 + 暗角，可对任意图片做「推镜聚焦 + 黄色标注滑入」的 Remotion 视频。Skill 指引 clone [fisheye-motion](https://github.com/vibe-motion/fisheye-motion) 项目并按需改参数渲染。
+
+<img src="fisheye-motion/assets/fisheye-demo.gif" alt="fisheye focus effect" width="440" />
+
 ### remotion-candlestick
 
 在 Remotion 项目中创建带动画的金融 K 线图（蜡烛图），涵盖 Yahoo Finance 数据获取、Canvas 逐帧绘制、深色交易终端风格、时间线设计，以及 Studio 预览和渲染输出。
