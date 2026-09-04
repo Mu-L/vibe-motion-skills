@@ -24,26 +24,17 @@ Converts prompt text into a Claude Code CLI typing animation demo.
 
 ![claude-typer effect](https://img.laosunwendao.com/skill-uploads/3dbc047456374640bd00a078e22a5008.gif)
 
+### fisheye-motion
+
+Creates a screen-photo style fisheye effect: barrel distortion + moire interference + vignette, with a Remotion video output that pushes focus onto a target region and slides in a yellow highlight. The skill guides cloning the [fisheye-motion](https://github.com/vibe-motion/fisheye-motion) project and rendering with custom parameters.
+
+<img src="fisheye-motion/assets/fisheye-demo.gif" alt="fisheye focus effect" width="440" />
+
 ### procedural-fish-render
 
 Generates a loop-friendly procedural fish animation.
 
 ![procedural-fish effect](https://img.laosunwendao.com/skill-uploads/96d88ab6cb9a4e1ca76abd73db08d888.gif)
-
-### svg-assembly-animator
-
-Delivers a strong "power + speed" assembly look from static vectors.
-
-<table>
-  <tr>
-    <td align="center"><strong>SVG</strong></td>
-    <td align="center"><strong>GIF</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.laosunwendao.com/ship.svg" alt="ship svg" width="256" /></td>
-    <td><img src="https://img.laosunwendao.com/ship_30fps_whitebg.gif" alt="ship gif 30fps white background" width="256" height="256" /></td>
-  </tr>
-</table>
 
 ### pixel2motion
 
@@ -70,12 +61,6 @@ product workflow, and keep the pacing fast, visually bold, and smooth.
 **Moonshot AI — Product Hypercut**
 
 <img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="360" />
-
-### fisheye-motion
-
-Creates a screen-photo style fisheye effect: barrel distortion + moire interference + vignette, with a Remotion video output that pushes focus onto a target region and slides in a yellow highlight. The skill guides cloning the [fisheye-motion](https://github.com/vibe-motion/fisheye-motion) project and rendering with custom parameters.
-
-<img src="fisheye-motion/assets/fisheye-demo.gif" alt="fisheye focus effect" width="440" />
 
 ### remotion-candlestick
 

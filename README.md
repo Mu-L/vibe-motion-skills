@@ -24,26 +24,17 @@ npx skills add vibe-motion/skills
 
 ![claude-typer effect](https://img.laosunwendao.com/skill-uploads/3dbc047456374640bd00a078e22a5008.gif)
 
+### fisheye-motion
+
+制作屏摄风格的鱼眼畸变效果：桶形畸变 + 摩尔纹 + 暗角，可对任意图片做「推镜聚焦 + 黄色标注滑入」的 Remotion 视频。Skill 指引 clone [fisheye-motion](https://github.com/vibe-motion/fisheye-motion) 项目并按需改参数渲染。
+
+<img src="fisheye-motion/assets/fisheye-demo.gif" alt="fisheye focus effect" width="440" />
+
 ### procedural-fish-render
 
 生成循环游动的 procedural fish 动画。
 
 ![procedural-fish effect](https://img.laosunwendao.com/skill-uploads/96d88ab6cb9a4e1ca76abd73db08d888.gif)
-
-### svg-assembly-animator
-
-将静态矢量图转化为“力量感 + 速度感”明显的组装动效。
-
-<table>
-  <tr>
-    <td align="center"><strong>SVG</strong></td>
-    <td align="center"><strong>GIF</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.laosunwendao.com/ship.svg" alt="ship svg" width="256" /></td>
-    <td><img src="https://img.laosunwendao.com/ship_30fps_whitebg.gif" alt="ship gif 30fps white background" width="256" height="256" /></td>
-  </tr>
-</table>
 
 ### pixel2motion
 
@@ -72,12 +63,6 @@ npx skills add vibe-motion/skills
 **Moonshot AI — Product Hypercut**
 
 <img src="brand-launch-video-star/assets/moonshot-product-hypercut.gif" alt="Moonshot AI product launch video" width="360" />
-
-### fisheye-motion
-
-制作屏摄风格的鱼眼畸变效果：桶形畸变 + 摩尔纹 + 暗角，可对任意图片做「推镜聚焦 + 黄色标注滑入」的 Remotion 视频。Skill 指引 clone [fisheye-motion](https://github.com/vibe-motion/fisheye-motion) 项目并按需改参数渲染。
-
-<img src="fisheye-motion/assets/fisheye-demo.gif" alt="fisheye focus effect" width="440" />
 
 ### remotion-candlestick
 
